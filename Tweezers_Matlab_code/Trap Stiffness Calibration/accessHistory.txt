@@ -1,0 +1,37 @@
+Roeland| selected| 20150916001.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\4MBP Data\Calibration\| at| 23-Dec-2015 11:47:47Roeland| selected| 20150916001.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\4MBP Data\Calibration\| at| 26-Feb-2016 09:35:41
+Roeland| selected| 20151125004.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\4MBP Data\Calibration\20151125\| at| 26-Feb-2016 09:36:33
+Roeland| selected| 20150916001.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\4MBP Data\Calibration\| at| 26-Feb-2016 09:39:18
+Roeland| selected| 20150916001.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\4MBP Data\Calibration\| at| 26-Feb-2016 09:41:24
+Roeland| selected| 20160128004.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\2016 Data\20160128\| at| 26-Feb-2016 09:44:40
+Roeland| selected| 20151125004.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\4MBP Data\Calibration\20151125\| at| 26-Feb-2016 09:45:56
+Roeland| selected| 20151116000.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\4MBP Data\20151116\| at| 26-Feb-2016 09:49:04
+Roeland| selected| 20151125004.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\4MBP Data\Calibration\20151125\| at| 26-Feb-2016 11:19:59
+Roeland| selected| 20151125002.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\4MBP Data\Calibration\20151125\| at| 26-Feb-2016 11:20:39
+Roeland| selected| 20151125004.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\4MBP Data\Calibration\20151125\| at| 26-Feb-2016 11:22:40
+Roeland| selected| 20151125002.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\4MBP Data\Calibration\20151125\| at| 26-Feb-2016 11:23:20
+Roeland| selected| 20151125001.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\4MBP Data\Calibration\20151125\| at| 26-Feb-2016 11:23:55
+Roeland| selected| 20151125002.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\4MBP Data\Calibration\20151125\| at| 26-Feb-2016 11:24:19
+Roeland| selected| 20151124001.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\4MBP Data\Calibration\20151124\| at| 26-Feb-2016 11:28:27
+Roeland| selected| 20151124001.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\4MBP Data\Calibration\20151124\| at| 26-Feb-2016 11:32:01
+Roeland| selected| 20151124001.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\4MBP Data\Calibration\20151124\| at| 26-Feb-2016 11:32:48
+Roeland| selected| 20151125002.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\4MBP Data\Calibration\20151125\| at| 26-Feb-2016 11:36:01
+Roeland| selected| 20151125004.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\4MBP Data\Calibration\20151125\| at| 26-Feb-2016 11:36:35
+Roeland| selected| 20160128023.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\2016 Data\20160128\| at| 26-Feb-2016 11:37:02
+Roeland| selected| 20160128000.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\2016 Data\20160128\| at| 26-Feb-2016 11:42:21
+Roeland| selected| 20160128012.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\2016 Data\20160128\| at| 26-Feb-2016 11:43:06
+Roeland| selected| 20160128008.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\2016 Data\20160128\| at| 26-Feb-2016 11:43:15
+Roeland| selected| 20160128004.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\2016 Data\20160128\| at| 26-Feb-2016 11:45:44
+Roeland| selected| 20160128023.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\2016 Data\20160128\| at| 26-Feb-2016 11:52:44
+Roeland| selected| 20160128004.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\2016 Data\20160128\| at| 26-Feb-2016 11:56:48
+Roeland| selected| 20160128003.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\2016 Data\20160128\| at| 26-Feb-2016 11:58:22
+Roeland| selected| 20160128028.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\2016 Data\20160128\| at| 26-Feb-2016 11:58:31
+Roeland| selected| 20160128004.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\2016 Data\20160128\| at| 26-Feb-2016 11:58:39
+Roeland| selected| 20160128004.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\2016 Data\20160128\| at| 26-Feb-2016 12:10:56
+Roeland| selected| 20160128023.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\2016 Data\20160128\| at| 26-Feb-2016 12:15:30
+Roeland| selected| 20160128004.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\2016 Data\20160128\| at| 26-Feb-2016 12:17:00
+Roeland| selected| 20160128004.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\2016 Data\20160128\| at| 26-Feb-2016 12:20:32
+Roeland| selected| 20160128004.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\2016 Data\20160128\| at| 26-Feb-2016 12:21:30
+Roeland| selected| 20160128023.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\2016 Data\20160128\| at| 26-Feb-2016 12:22:15
+Roeland| selected| 20160128004.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\2016 Data\20160128\| at| 26-Feb-2016 12:22:39
+Roeland| selected| 20160128004.dat| in| C:\Users\Roeland\Dropbox\AMOLF PhD\Old tweezers setup\2016 Data\20160128\| at| 26-Feb-2016 12:31:08
+Roeland| selected| 20160120006.dat| in| C:\Users\Roeland\Downloads\| at| 26-Feb-2016 16:00:59

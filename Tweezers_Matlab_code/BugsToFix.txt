@@ -1,0 +1,1 @@
+26-07-17: clear compaction variables in datVr, to prevent repetitive overwriting.
